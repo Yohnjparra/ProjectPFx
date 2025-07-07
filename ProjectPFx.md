@@ -1,5 +1,5 @@
 ---
-title: "ProjectPFx - Qiskit quantum programming and quantum tech"
+title: "ProjectPFx - Qiskit Quantum Programming and Quantum Tech"
 author:
   - "Yohn Jairo Parra Bautista, Instructor"
   - "Uthman Hammed, Mentor"
