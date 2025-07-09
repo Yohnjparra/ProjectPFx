@@ -1,5 +1,5 @@
 ---
-title: "ProjectPFx - Quantum Machine Learnin Programming and Quantum Tech"
+title: "ProjectPFx - Quantum Machine Learning Programming and Quantum Tech"
 author:
   - "Yohn Jairo Parra Bautista, Instructor"
   - "Uthman Hammed, Mentor"
