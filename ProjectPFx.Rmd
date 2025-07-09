@@ -1,5 +1,5 @@
 ---
-title: "ProjectPFx - Qiskit Quantum Programming and Quantum Tech"
+title: "ProjectPFx - Quantum Machine Learning Programming and Quantum Tech"
 author:
   - "Yohn Jairo Parra Bautista, Instructor"
   - "Uthman Hammed, Mentor"
@@ -17,6 +17,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+![In Collaboration](images/logo.png)
+
 
 # Project Overview {#nextsteps .emphasized}
 
@@ -46,16 +49,97 @@ additional challenges to quantum applications.
 
 ### Observer effect
 
-![At the time of observation - particle- localized space time event](images/observer.png)
+<img src="images/observer.png" width="700px" />
+
 
 
 [📄 Open The Quantum Leap PDF](the-quantum-leap.pdf)
 
+## Watch the YouTube Video
+
+[View Video about Observer Effect](https://www.youtube.com/watch?v=Rqh6CH1Hlvo)
+
+
+# Day 1
+
+What is Quantum?
+
+Basically, “Quantum” is a branch of physics covering the very small and/or the very cold.
+“Physics” to most of us, describes what happens when we hit a golf ball, play billiards, or watch
+the ocean tides. We don’t understand the Newtonian physics involved, but we can generally
+strike the cue ball into the target ball and sink the billiard shot. “Quantum Physics” governs
+what happens when the scale is incredibly small (i.e., the size of an individual atom or photon) or
+extremely cold (or both). At the scale of atoms or photons, physics are different and things like
+“Superposition”, “Entanglement” and “wave-particle duality” happen. But rather than explain
+these properties, suffice it to say that these are very interesting and powerful features which
+scientists are using to do amazing things. <mark>Read more in:  Open The Quantum Leap PDF - Quantum Mechanics</mark>
+
+**Slides 1 with Mentor:** Link to slides:
+
+[View the Google Slides presentation](https://docs.google.com/presentation/d/1pihh1bgvob0EtGnNjDUEBEsEjPtyn4cPUDU3RACaKU8/edit?usp=sharing)
+
+
+**Activity with Mentor**: Introduce Python as a Language
+
+**Lab Day 1**: Complete Python Code with Mentor
+
+**Template for Final Presentation:**
+
+# Day 2
+
+**Activity by the Instructor:** Investigate what is meant by the term "quantum advantage and write a brief description explaining what it is and its significance. Time: 15 mins. 
+
+**Submit Answer in Kahoot:**
+
+[View the Kahoot Submission](https://create.kahoot.it/share/question-1-pfx/3e993cf0-282a-4950-baff-6ebb56c823af)
+
+**Kahoot Quiz with Instructor about Slides 1 with Mentor and readings:**
+
+[View the Kahoot Quiz](https://create.kahoot.it/share/exploring-quantum-computing/f3f7d69d-1835-4ae8-84f7-c1e373c9f9a2)
+
+**Slides 2 with Instructor:**
+
+[View the Google Slides presentation](https://docs.google.com/presentation/d/1chIR5pmImynt7fxW5cClZDYPjrlLv-kLNCPCI_pxi9E/edit?usp=sharing)
+
+
+**Activity with Mentor:** Traditional Machine Learning vs Quantum Machine Learning in Python Part 1
+
+**Lab Day 2:** Complete Python Code with Mentor
+
+
+# Day 3
+
+**Activity by the Instructor:** Investigate the main types of quantum hardware and write a bullet point presentation to biefly summarise your findings (one bullet point per item and at most one URL per item).
+
+**Submit Answer in Kahoot:**
+
+[View the Kahoot Submission](https://create.kahoot.it/share/question-2-pfx/93b76656-ebc7-4f99-a43d-ddb388a0c778)
+
+## Watch the YouTube Video
+
+[View Video Quantum Computing Hardware and Platforms](https://www.youtube.com/watch?v=yqIa7xhb3ds)
 
 
 
+**Slides 3 with Instructor:**
 
+[View the Google Slides presentation](https://docs.google.com/presentation/d/1XFs1BMkP44_zO0kkxBn4G6b6HyiI02GzQqYQevI57MI/edit?usp=sharing)
 
+**Activity with Mentor:** Traditional Machine Learning vs Quantum Machine Learning in Python Part 2
 
+# Day 4
 
+**Activity by the Instructor:** Investigate the major players involved in quantum. Establish their names and the type of quantum hardware they are using, developing, or hosting, and write a bullet point presentation to summarise your findings (at most two bullet points per company and at most one URL, should you wish, per company).
+
+**Submit Answer in Kahoot:**
+
+[View the Kahoot Submission](https://create.kahoot.it/share/question-3-pfx/b67058df-a34f-485f-ad50-534e5cda1df6)
+
+**Activity with Mentor:** Traditional Machine Learning vs Quantum Machine Learning in Python Part 3
+
+# Day 5
+
+**Summary and Takeaways**
+
+**Final Presentation Day**
 
